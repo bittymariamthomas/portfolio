@@ -1,0 +1,7 @@
+.hello{
+    color:red;
+    background-color:blue;
+    border:black solid 2px;
+    border: radius 20px;
+    padding: 20px;
+}
